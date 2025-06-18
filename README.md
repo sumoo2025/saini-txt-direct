@@ -33,12 +33,3 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
 
 
-Bot username
-@saini_contact_bot
-@saini_file_store_bot
-
-
-Repo 
-https://github.com/nikhilsainiop/saini-txt-direct
-
-https://github.com/cyberseller999/saini-txt-direct
